@@ -1,0 +1,15 @@
+.calculator{
+    display: flex;
+    justify-content: center;
+
+}
+
+.row{
+    display: flex;
+    justify-content: center;
+}
+
+*[name="calculator-math-button"]{
+    width: 30px;
+    height: 30px;
+}
